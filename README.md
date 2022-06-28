@@ -5,9 +5,13 @@ In this project, we have used two datasets to work on a classification problem o
 Project completed by:
 
 Antonio Buendía-Pérez
+
 Javier Fernández-Valparís
+
 Joan Perramon-Llussà
+
 Konstantina (Nadia) Paraskevoudi
+
 Natalia Campos Heredia 
 
 # Datasets 
