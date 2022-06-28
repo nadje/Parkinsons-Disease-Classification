@@ -4,6 +4,18 @@ In this project, we have used two datasets to work on a classification problem o
 
 For a summary of the project, please see our [presentation](https://github.com/nadje/Parkinsons-Disease-Classification/blob/main/Presentaci%C3%B3n_Parkinson.pptx.pdf). 
 
+Project completed by:
+
+Antonio Buendía-Pérez
+
+Javier Fernández-Valparís
+
+Joan Perramon-Llussà
+
+Konstantina (Nadia) Paraskevoudi
+
+Natalia Campos Heredia 
+
 # Datasets 
 
 ### Dataset 1
