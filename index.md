@@ -1,5 +1,8 @@
 # Parkinson's Disease Classification using two datasets of preprocessed speech signals
 
+In this project, we have used two datasets to work on a classification problem of Parkinson's Disease. 
+For the complete presentation and the steps we followed, please see the pdf: https://github.com/nadje/Parkinsons-Disease-Classification/blob/gh-pages/Presentaci%C3%B3n_Parkinson.pptx.pdf 
+
 # Datasets 
 
 ### Dataset 1
